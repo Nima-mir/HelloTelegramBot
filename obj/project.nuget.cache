@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IbU2EcrDN2A=",
+  "dgSpecHash": "zGPlWUDPEJ4=",
   "success": true,
   "projectFilePath": "D:\\prjs\\telegramBots\\s1\\TelegramMenuBot2server\\TelegramMenuBot.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\n\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\n\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\n\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\n\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
     "C:\\Users\\n\\.nuget\\packages\\telegram.bot\\22.9.6\\telegram.bot.22.9.6.nupkg.sha512"
   ],
   "logs": []
