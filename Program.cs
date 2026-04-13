@@ -5,7 +5,7 @@ using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
 
 var botToken = Environment.GetEnvironmentVariable("BOT_TOKEN")
-               ?? throw new Exception("BOT_TOKEN not set");
+               ?? throw new Exception("BOT_TOKEN environment variable is not set");
                
 var bot = new TelegramBotClient(botToken);
 

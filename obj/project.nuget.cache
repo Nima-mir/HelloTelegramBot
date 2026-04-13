@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TMFrA7pt52Y=",
+  "dgSpecHash": "IbU2EcrDN2A=",
   "success": true,
-  "projectFilePath": "D:\\prjs\\telegramBots\\s1\\TelegramMenuBot\\TelegramMenuBot.csproj",
+  "projectFilePath": "D:\\prjs\\telegramBots\\s1\\TelegramMenuBot2server\\TelegramMenuBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\n\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\n\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
