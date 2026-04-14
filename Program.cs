@@ -1,4 +1,4 @@
-﻿using Telegram.Bot;
+using Telegram.Bot;
 using Telegram.Bot.Polling;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
@@ -78,6 +78,7 @@ async Task HandleUpdateAsync(ITelegramBotClient bot, Update update, Cancellation
             text: responseText,
             cancellationToken: ct
         );
+         Console.WriteLine("P: "+ responseText);
     }
 }
 
