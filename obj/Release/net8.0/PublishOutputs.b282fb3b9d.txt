@@ -1,0 +1,12 @@
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\TelegramMenuBot.exe
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\TelegramMenuBot.dll
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\TelegramMenuBot.deps.json
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\TelegramMenuBot.runtimeconfig.json
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\TelegramMenuBot.pdb
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\Microsoft.Extensions.Configuration.Binder.dll
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\Microsoft.Extensions.Options.dll
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\Microsoft.Extensions.Primitives.dll
+D:\prjs\telegramBots\s1\TelegramMenuBot2server\out\Telegram.Bot.dll

@@ -78,6 +78,7 @@ async Task HandleUpdateAsync(ITelegramBotClient bot, Update update, Cancellation
             text: responseText,
             cancellationToken: ct
         );
+         Console.WriteLine("P: "+ responseText);
     }
 }
 
